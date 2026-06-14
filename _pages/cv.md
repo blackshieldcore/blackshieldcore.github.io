@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download my full CV/resume as a PDF below.
 
-Link for the CV.
+[Download Resume (PDF)](/files/Pratham_Badgujar_Resume.pdf)
