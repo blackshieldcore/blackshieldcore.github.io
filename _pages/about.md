@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Security Engineer at NTT DATA, working in Managed Security Services. I operate and tune a broad stack of 24+ enterprise security tools across WAF/WAAP, EDR, database activity monitoring, cloud security posture, attack-surface management, DDoS protection, and vulnerability management — including dedicated ownership of high-profile, high-traffic client environments with elevated threat exposure.
+I'm a Security Engineer at NTT DATA, working in Managed Security Services. I operate and tune a broad stack of 24+ enterprise security tools across WAF/WAAP, EDR, database activity monitoring, cloud security posture, attack-surface management, DDoS protection, and vulnerability management including dedicated ownership of high-profile, high-traffic client environments with elevated threat exposure.
 
 **Focus areas:** Web Application Security, Endpoint Detection & Response, Cloud Security, Database Activity Monitoring, Vulnerability Management.
 
