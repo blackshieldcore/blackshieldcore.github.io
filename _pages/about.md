@@ -20,4 +20,4 @@ I'm a Security Engineer at NTT DATA, working in Managed Security Services. I ope
 
 Outside of work, I play guitar, game (Valorant, COD, PUBG), and I'm fascinated by space and black holes.
 
-You can find my [CV](/files/Pratham_Badgujar_Resume.pdf)here!
+You can find my [CV](/files/Pratham_Badgujar_Resume.pdf) here!
