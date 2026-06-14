@@ -4,7 +4,7 @@ title: "Projects"
 author_profile: true
 ---
 
-## CloudGuard — AWS IAM Risk Analyzer
+## CloudGuard - AWS IAM Risk Analyzer
 
 A lightweight, zero-dependency Python tool that scans AWS IAM policy documents for misconfigurations, privilege-escalation paths, and overly permissive access patterns. Designed for offline use in code review, CI pipelines, and pre-deployment checks.
 
