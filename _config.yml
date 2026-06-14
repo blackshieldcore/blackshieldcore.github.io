@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Pratham Badgujar"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Pratham Badgujar"
 description              : &description "Security Engineer — Managed Security Services"
