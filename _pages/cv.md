@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV/resume as a PDF below.
-
-[Download Resume (PDF)](/files/Pratham_Badgujar_Resume.pdf)
+Link for the [CV](/files/Pratham_Badgujar_Resume.pdf).
